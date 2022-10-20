@@ -2,8 +2,8 @@ spring:
    datasource:
       url: jdbc:mysql://localhost:3306/productdb
       driver-class-name: com.mysql.cj.jdbc.Driver
-      username: temp
-      password: temp@1234
+      username: root
+      password: Temp1234
    jpa:
       hibernate.ddl-auto: update
       properties:
